@@ -1,10 +1,14 @@
-ÓÎÏ·ºÜ¼òµ¥£¬ÓÃ¼üÅÌ¿ØÖÆ¡°ñ·ÃÃ¡±¶ã×Óµ¯¡£
+æ¸¸æˆå¾ˆç®€å•ï¼Œç”¨é”®ç›˜æ§åˆ¶â€œç©¹å¦¹â€èº²å­å¼¹
+The game is very simple - just use keyboard to control the mouse to avoid the bullets
 
-ÓÎÏ·´°¿ÚºÍ¡°ñ·ÃÃ¡±¶¼ÓĞbug£¬¿ÉÒÔÀûÓÃ´°¿ÚbugÍæ±¬ÓÎÏ·
+æ¸¸æˆçª—å£å’Œâ€œç©¹å¦¹â€éƒ½æœ‰bugï¼Œå¯ä»¥åˆ©ç”¨çª—å£bugç©çˆ†æ¸¸æˆ
+The game window and the mouse control is a bug - you can just move the mouse out of the window to win the game
 
-ÄÍĞÄÍæ²»µ½1min£¬Ò²¿ÉÒÔÍæ±¬
+è€å¿ƒç©ä¸åˆ°1minï¼Œä¹Ÿå¯ä»¥ç©çˆ†
+The game is super hard that you basically play for less than 1 min, but u can still win the game based on the bug above
 
-ÄÚÖÃ¾«¼òjre£¨javaÔËĞĞ»·¾³£©£¬ÎóÉ¾
+å†…ç½®ç²¾ç®€jreï¼ˆjavaè¿è¡Œç¯å¢ƒï¼‰ï¼Œè¯¯åˆ 
+There's a mini jre (java running environment) inside in the dir, plz do not delete (later I found that the users still needs to specify the java env vars on their own computers - I was too naive)
 
 thx for playing
 
