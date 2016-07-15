@@ -16,4 +16,3 @@ thx for playing
 ##########copyright PineApple's Galgame Co.#############
 
 Game screencuts:
-file:///home/fengling/Pictures/dfj%20screencuts/Screenshot%20from%202016-07-15%2015:14:39.png
