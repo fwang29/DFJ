@@ -1,5 +1,5 @@
 # DFJ
-A small game app I developed during high school 
+A small game app I developed during high school :D
 
 ## Game Environment prerequisites 
   First thing first, you need java to run the game! Only when jre is installed and correctly set on you computer that the game can run successfully. 
@@ -30,4 +30,4 @@ A small game app I developed during high school
 # thx for playing
 
 
-###### ############# copyright PineApple's Galgame Co.#############
+###### copyright PineApple's Galgame Co.
